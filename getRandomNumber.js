@@ -1,1 +1,3 @@
-console.log('test')
+function getRandomNumber () {
+    return Math.random();
+}
